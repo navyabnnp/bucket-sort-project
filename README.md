@@ -1,2 +1,2 @@
 Technique used: 
-Scatter and technique
+Scatter and gather technique
